@@ -2,4 +2,4 @@
 
 This is the repo
 
-i love :coffee: :pizza: amd :dancer:
+i love :coffee: :pizza: and :dancer:
